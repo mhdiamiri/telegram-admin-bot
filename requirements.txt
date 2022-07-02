@@ -1,0 +1,9 @@
+bitcoin-price-api==0.0.4
+bkcharts==0.2
+cryptography==2.9.2
+requests
+requests-file==1.5.1
+requests-toolbelt==0.9.1
+python-telegram-bot
+datetime
+flask
